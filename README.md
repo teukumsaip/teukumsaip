@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Kotlin, Go**
 - 💬 Ask me about **Android**
 - 📫 How to reach me **saifsyafii22@gmail.com**
-- ⚡ Fun fact **friends called me GAMON**
+- ⚡ Fun fact **I'm a Cat lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
