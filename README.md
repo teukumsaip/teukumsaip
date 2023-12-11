@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhdsaip" target="blank"><img src="https://img.shields.io/twitter/follow/mhdsaip?logo=twitter&style=for-the-badge" alt="mhdsaip" /></a> </p>
 
-- 🔭 I’m currently working on [foodmarket-backend]([(https://github.com/teukumsaip/foodmarket-backend)])
+- 🔭 I’m currently working on [foodmarket-backend](https://github.com/teukumsaip/foodmarket-backend)
 - 🌱 I’m currently learning **Kotlin, Flutter**
 - 💬 Ask me about **Android**
 - 📫 How to reach me **saifsyafii22@gmail.com**
